@@ -1,0 +1,7 @@
+The basic solution is of Time complexity n^2. But there are other 2 solutions possible.
+1)Using Binary Search Tree---time complexity is nlogn
+2)Using Moore’s Voting Algorithm----n
+
+These solutions will be updated soon....
+
+Thanks..
