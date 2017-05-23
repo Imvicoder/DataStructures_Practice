@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e13991f0-6ab3-420d-baf6-035113e5a245" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Important Note.txt" afterPath="$PROJECT_DIR$/Important Note.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Implementations In C/LinkedList/InsertionOfNodeAtBeginning/main.c" afterPath="$PROJECT_DIR$/../Implementations In C/LinkedList/InsertionOfNodeAtBeginning/main.c" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
