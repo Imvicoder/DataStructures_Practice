@@ -1,6 +1,6 @@
-The basic solution is of Time complexity n^2. But there are other 2 solutions possible.
-1)Using Binary Search Tree---time complexity is nlogn
-2)Using Moore’s Voting Algorithm----n
+The basic solution is of Time complexity O(n^2). But there are other 2 solutions possible.
+1)Using Self balancing Binary Search Tree---time complexity is O(nlogn) but if we use normal binary tree then T.C is O(n^2)
+2)Using Moore’s Voting Algorithm----O(n)
 
 These solutions will be updated soon....
 
