@@ -7,7 +7,7 @@ public class Solution_Using_Memorization {
     public int findCoeffiecient(int n,int r){
         int memo[][]=new int[n+1][r+1];
         for(int i=0;i<=n;i++){
-            for (int j=0;j<Math.min(i,r);j++){
+            for (int j=0;j<=Math.min(i,r);j++){
                 if(j==0 || i==j){
                     memo[i][j]=1;
                 }else{
